@@ -1,4 +1,6 @@
 Hey there 👋  
 I'm Arsène, CS student.   
 
-I'm currently working on a cool Python project for password managing. Here's the repo [PasswdMgr](https://github.com/Arskan17/PasswdMgr)
+Checkout some of my projects, one is sure to pique your interest :smile:
+
+Find out more about me [Profile](https://arskan17.github.io/Profile-Blog/)
