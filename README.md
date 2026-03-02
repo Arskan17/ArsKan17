@@ -1,5 +1,5 @@
 Hey there 👋  
-I'm Arsène, CS student.   
+I'm Arsène, Junior AI Solution Engineer.   
 
 Checkout some of my projects, one is sure to pique your interest :smile:
 
