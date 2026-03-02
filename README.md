@@ -25,12 +25,12 @@ Find out more about [me](https://arskan17.github.io/)
 
 ---
 
+
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
  
-
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=arskan17&style=for-the-badge&color=orange" alt=""/>
-</div>
 
 ---
 
@@ -40,6 +40,6 @@ Find out more about [me](https://arskan17.github.io/)
 </p>
 
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=arskan17&style=for-the-badge&color=orange" alt=""/>
+</div>
