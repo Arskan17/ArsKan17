@@ -33,6 +33,12 @@ Find out more about [me](https://arskan17.github.io/)
 
 ---
 
+ 
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=arskan17&style=for-the-badge&color=orange" alt=""/>
+</div>
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
