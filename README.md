@@ -25,20 +25,20 @@ Find out more about [me](https://arskan17.github.io/)
 
 ---
 
-  
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=arskan17&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
-
-
----
-
  
 
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=arskan17&style=for-the-badge&color=orange" alt=""/>
 </div>
+
+---
+
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=arskan17&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
