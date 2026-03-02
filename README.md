@@ -34,26 +34,6 @@ Find out more about [me](https://arskan17.github.io/)
 ---
 
 
-
-
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=arskan17&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arskan17&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
- 
-
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=arskan17&style=for-the-badge&color=orange" alt=""/>
-</div>
-
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
-
----
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=arskan17&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
