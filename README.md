@@ -19,9 +19,9 @@ Find out more about [me](https://arskan17.github.io/)
 
 ### OS:
 
-| Mint | Arch | MacOS |
+| Omarchy | Arch | MacOS |
 |----------|----------|----------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" title="LinuxMint" alt="LinuxMint" width="65" height="65"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="ArchLinux" alt="ArchLinux" width="65" height="65"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png" title="MacOS" alt="MacOS" width="65" height="65"/> |
+| <img src="https://pbs.twimg.com/profile_images/1960368050223685633/wOkAf1Zb_400x400.jpg" title="LinuxMint" alt="LinuxMint" width="65" height="65"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="ArchLinux" alt="ArchLinux" width="65" height="65"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png" title="MacOS" alt="MacOS" width="65" height="65"/> |
 
 ---
 
