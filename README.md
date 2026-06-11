@@ -1,17 +1,26 @@
-Hey there 👋  
-I'm Arsène, Junior AI Solution Engineer.   
+Might start streaming random coding sessions or not, anyways go subscribe to my [channel](https://www.twitch.tv/level1code)
 
-Checkout some of my projects, one is sure to pique your interest :smile:
+# "Experience"
+Director of dynamic interpolation for comprehensive media distribution and analysis as it applies to heuristic community building and efficient workplace design practices through the open ambiguity foundation. Former head of technical minutiae at the global foundation of situational systematic dependence and programmatic regression analysis. Lead team lead at corpcorp.
 
-Find out more about [me](https://arskan17.github.io/)
+# Currently Learning
+- Zig
+- Industrial confusion & inconviencience engineering
+- Force push and pray
+- verose abstraction (in the general sense as it applies to cubic regression)
+- liquification
+- analytical analysis
+- Rats (not remote access trojans, more like that ratatouille guy 😉)
+- Penguins (need I say more?)  
+Vibe coding is obsolete, real ones aura code.
 
 
 ---
 
 ### Languages:
-| Python3 | Java | C | JS |
+| Python | Java | C | TS |
 |----------|----------|----------|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
 
 
 ---
