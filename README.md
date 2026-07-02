@@ -1,4 +1,4 @@
-Might start streaming random coding sessions or not, anyways go subscribe to my [channel](https://www.twitch.tv/level1code)
+Might start streaming random coding sessions or not. Anyways go subscribe to my [channel](https://www.twitch.tv/level1code)
 
 # "Experience"
 I mainly work on ML pipelines, like RAG, agentic loops, and cognitive models.  
