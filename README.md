@@ -1,18 +1,17 @@
 Might start streaming random coding sessions or not, anyways go subscribe to my [channel](https://www.twitch.tv/level1code)
 
 # "Experience"
-Director of dynamic interpolation for comprehensive media distribution and analysis as it applies to heuristic community building and efficient workplace design practices through the open ambiguity foundation. Former head of technical minutiae at the global foundation of situational systematic dependence and programmatic regression analysis. Lead team lead at corpcorp.
+I mainly work on ML pipelines, like RAG, agentic loops, and cognitive models.  
+I like scripting. I always find it rewarding when I can cook up something real quick and it just works.  
 
-# Currently Learning
+# Currently learning
 - Zig
-- Industrial confusion & inconviencience engineering
-- Force push and pray
-- verose abstraction (in the general sense as it applies to cubic regression)
-- liquification
-- analytical analysis
-- Rats (not remote access trojans, more like that ratatouille guy 😉)
-- Penguins (need I say more?)  
-Vibe coding is obsolete, real ones aura code.
+- C++
+- ML
+
+# Concerns
+This one is the opposite, but I feel like I'd be miserable in a future where I'd have to talk to robots. I guess the turing test must be updated huh? higher inteligence doesn't mean anything anymore. As "Sam the altman gpt" says, intelligence is a comodity like electricity and gas.  
+I'm not woried 😅
 
 
 ---
