@@ -10,7 +10,7 @@ I like scripting. I always find it rewarding when I can cook up something real q
 - ML
 
 # Concerns
-This one is the opposite, but I feel like I'd be miserable in a future where I'd have to talk to robots. I guess the turing test must be updated huh? higher inteligence doesn't mean anything anymore. As "Sam the altman gpt" says, intelligence is a comodity like electricity and gas.  
+This one is the opposite, but I feel like I'd be miserable in a future where I'd have to talk to robots. I guess the Turing test must be updated huh? higher inteligence doesn't mean anything anymore. As "Sam the altman gpt" says, intelligence is a comodity like electricity and gas.  
 I'm not woried 😅
 
 
