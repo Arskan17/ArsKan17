@@ -5,6 +5,7 @@ I mainly work on ML pipelines, like RAG, agentic loops, and cognitive models.
 I like scripting. I always find it rewarding when I can cook up something real quick and it just works.  
 
 # Currently learning
+- Rust
 - Zig
 - C++
 - ML
