@@ -2,9 +2,11 @@ Might start streaming random coding sessions or not. Anyways go subscribe to my 
 
 # "Experience"
 I mainly work on ML pipelines, like RAG, agentic loops, and cognitive models.  
-I like scripting. I always find it rewarding when I can cook up something real quick and it just works.  
+I like scripting. I always find it rewarding when I can cook up something real quick that just works.  
+I keep my home server under my bed, trying to avoid any surprises.
 
 # Currently learning
+- Claude
 - Rust
 - Zig
 - C++
